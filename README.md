@@ -32,100 +32,28 @@
 <br />
 <br />
 
----
 
-## Kerjaan gw tiap hari
+<details>
+
+  <summary><img align="" src="https://wakatime.com/static/img/wakatime.svg" width="40" height="40" /></summary><br/>
 
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-119-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 326 Contributions in the Year 2021
- > 
-> 📦 62.4 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 12 Public Repositories 
- > 
-> 🔑 5 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.34% 
-🌆 Daytime    89 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.98% 
-🌃 Evening    192 commits    █████████░░░░░░░░░░░░░░░░   38.79% 
-🌙 Night      143 commits    ███████░░░░░░░░░░░░░░░░░░   28.89%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.92% 
-Tuesday      39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.88% 
-Wednesday    106 commits    █████░░░░░░░░░░░░░░░░░░░░   21.41% 
-Thursday     165 commits    ████████░░░░░░░░░░░░░░░░░   33.33% 
-Friday       60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
-Saturday     31 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.26% 
-Sunday       35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.07%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-JavaScript               5 hrs 43 mins       █████████████████████░░░░   84.32% 
-JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.06% 
-Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.81% 
-Sublime Text Config      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.8% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-🔥 Editors: 
-Sublime Text             6 hrs 47 mins       █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-wabotre                  4 hrs 56 mins       ██████████████████░░░░░░░   72.75% 
-github                   1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.16% 
-ftwrr                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.81% 
-Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.27%
-
-💻 Operating System: 
-Windows                  6 hrs 47 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               7 repos             █████████████████████████   100.0%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Ftwrr/Ftwrr/main/charts/bar_graph.png) 
-
-
- Last Updated on 05/11/2021
 <!--END_SECTION:waka-->
 
-**Activity**
+**Recent activity**
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#894](https://github.com/Nurutomo/wabot-aq/pull/894) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
-2. 🗣 Commented on [#892](https://github.com/Nurutomo/wabot-aq/issues/892) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
-3. 💪 Opened PR [#893](https://github.com/Nurutomo/wabot-aq/pull/893) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
-4. 🗣 Commented on [#892](https://github.com/Nurutomo/wabot-aq/issues/892) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
-5. 🗣 Commented on [#892](https://github.com/Nurutomo/wabot-aq/issues/892) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
 <!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary><img align="" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" width="40" height="40" /></summary><br/>
+
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=ftwrr" />
+
+</details>
 
 [website]: https://github.com/Ftwrr
 [discord]: https://discord.gg/dy7qVmjXbu
