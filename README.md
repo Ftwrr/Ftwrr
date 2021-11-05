@@ -5,7 +5,7 @@
 <img src="https://static.wikia.nocookie.net/ab108fb9-54e3-42a3-99dc-1f0c09fc4524" /> 
 <img src="https://camo.githubusercontent.com/ece04e9e6d8e7370a88024f41d544915e01ce71b5457326c08349cc282ccf2d4/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270" /> 
 
-## Bukan siapa siapa
+## Aku tolol
 
 - 🔭 I’m currently working on my dick
 - 🌱 I’m currently learning everything
@@ -14,7 +14,8 @@
 
 ### Mutualan:
 
-[<img align="left" alt="wangsaff" width="22px" src="https://raw.githubusercontent.com/Templarian/MaterialDesign/master/svg/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="wangsaff" width="120px" src="https://img.shields.io/badge/wangsaff-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />][whatsapp]
+[<img align="left" alt="wangsaff" width="120px" src="https://img.shields.io/badge/discrott-36393f?style=for-the-badge&logo=discord&logoColor=white" />][discord]
 
 
 <br />
@@ -33,20 +34,22 @@
 
 ---
 
-### Kerjaan gw tiap hari
+## Kerjaan gw tiap hari
+
+
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-119-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 326 Contributions in the Year 2021
+> 🏆 325 Contributions in the Year 2021
  > 
 > 📦 62.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 11 Public Repositories 
  > 
 > 🔑 5 Private Repositories  
  > 
@@ -125,7 +128,8 @@ JavaScript               7 repos             ███████████�
 <!--END_SECTION:activity-->
 
 [website]: https://github.com/Ftwrr
-[whatsapp]: https://api.whatsapp.com/send/?phone=62823944158720&text&app_absent=0
+[discord]: https://discord.gg/dy7qVmjXbu
+[whatsapp]: https://wa.me/62823944158720
 [sublimetext]: https://www.sublimetext.com/
 [javascript]: https://www.javascript.com/
 [mongodb]: https://www.mongodb.com/
