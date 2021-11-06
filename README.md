@@ -40,7 +40,7 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-153-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-154-blue)
 
 **🐱 My GitHub Data** 
 
@@ -116,7 +116,7 @@ JavaScript               7 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Ftwrr/Ftwrr/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/11/2021
+ Last Updated on 06/11/2021
 <!--END_SECTION:waka-->
 
 **Recent activity**
