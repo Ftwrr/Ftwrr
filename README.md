@@ -1,9 +1,9 @@
-# Hai, nama gweh [Fatur][whatsapp] - aka [Ftwrr][website] <img src="https://c.tenor.com/pvFJwncehzIAAAAM/hello-there-private-from-penguins-of-madagascar.gif" width="300" height="70" />
+# Hai, nama gweh [Fatur][whatsapp] - aka [Ftwrr][website]
 
-[![Website](https://img.shields.io/website?label=Ftwrr&style=for-the-badge&url=https://github.com/Ftwrr&logo=onlyfans)](https://github.com/Ftwrr)
-<img src="https://github.githubassets.com/images/mona-whisper.gif" />
+
+
 <img src="https://static.wikia.nocookie.net/ab108fb9-54e3-42a3-99dc-1f0c09fc4524" /> 
-<img src="https://camo.githubusercontent.com/ece04e9e6d8e7370a88024f41d544915e01ce71b5457326c08349cc282ccf2d4/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270" /> 
+
 
 ## Aku tolol
 
