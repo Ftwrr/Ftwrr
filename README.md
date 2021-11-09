@@ -123,10 +123,10 @@ JavaScript               7 repos             ███████████�
 
 **Recent activity**
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#903](https://github.com/Nurutomo/wabot-aq/issues/903) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
-2. 🗣 Commented on [#903](https://github.com/Nurutomo/wabot-aq/issues/903) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
-3. 🗣 Commented on [#19](https://github.com/AlenSaito1/wa-sticker-formatter/issues/19) in [AlenSaito1/wa-sticker-formatter](https://github.com/AlenSaito1/wa-sticker-formatter)
-4. 🗣 Commented on [#892](https://github.com/Nurutomo/wabot-aq/issues/892) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
+1. ❗️ Closed issue [#815](https://github.com/adiwajshing/Baileys/issues/815) in [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys)
+2. ❗️ Opened issue [#815](https://github.com/adiwajshing/Baileys/issues/815) in [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys)
+3. 🗣 Commented on [#903](https://github.com/Nurutomo/wabot-aq/issues/903) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
+4. 🗣 Commented on [#903](https://github.com/Nurutomo/wabot-aq/issues/903) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
 5. 🗣 Commented on [#892](https://github.com/Nurutomo/wabot-aq/issues/892) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
 <!--END_SECTION:activity-->
 
