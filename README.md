@@ -40,7 +40,7 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-149-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-148-blue)
 
 **🐱 My GitHub Data** 
 
