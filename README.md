@@ -42,7 +42,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
 
 **🐱 My GitHub Data** 
 
@@ -111,7 +111,7 @@ JavaScript               10 repos            ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Ftwrr/Ftwrr/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/02/2022 06:44:41 UTC
+ Last Updated on 22/02/2022 07:36:53 UTC
 <!--END_SECTION:waka-->
 
 **Recent activity**
