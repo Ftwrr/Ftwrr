@@ -48,7 +48,7 @@
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 86.9 kB Used in GitHub's Storage 
+> 📦 86.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -111,7 +111,7 @@ JavaScript               10 repos            ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Ftwrr/Ftwrr/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/02/2022 11:37:14 UTC
+ Last Updated on 26/02/2022 12:53:45 UTC
 <!--END_SECTION:waka-->
 
 **Recent activity**
